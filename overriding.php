@@ -73,7 +73,7 @@ class cetakInfoProduk{
 
 $produk1 = new Komik("Naruto","Masashi Kishimoto","Shonen Jump",30000,100);
 
-$produk2 = new Game("Uncharted","Neil Druckmann","Sony Computer",240000,50);
+$produk2 = new Game("Boruto the Game","Bandai","Sony Computer",290000,50);
 
 echo $produk1->getInfoProduk();
 echo "<br>";
