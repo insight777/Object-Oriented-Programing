@@ -89,6 +89,6 @@ echo $produk1->getInfoProduk();
 echo "<br>";
 echo $produk2->getInfoProduk();
 echo "<hr>";        
-
+echo "Total Harga"
 $produk2->getDiskon(40);
 echo $produk2->getHarga();
